@@ -1,0 +1,41 @@
+.carousel {
+	max-width: 400px;
+  max-height: 400px;
+	margin: 0 auto;
+	text-align: center;
+  border: solid;
+	border-color: blue;
+  overflow: hidden;
+
+}
+
+ul {
+ list-style-type: none; 
+  width: 2000px;
+  height: 400px;
+  
+
+ }
+li {
+   width: 400px;
+  height: 400px;
+  list-style: none;
+  float: left;
+ 
+}
+
+
+img {
+   width: 400px;
+  height: 400px;
+  float: left;
+  
+
+
+ 
+
+
+ }
+
+
+
